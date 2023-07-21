@@ -62,7 +62,7 @@ export default function LoginPage() {
       </div>
       <button
         onClick={onHandleLogin}
-        className="px-4 py-2 m-4 bg-blue-700 border border-gray-300 rounded-lg border-none"
+        className="px-5 py-2 m-4 bg-blue-700 text-white border rounded-full border-gray-300 rounded-lg border-none"
       >
         Login Here
       </button>
